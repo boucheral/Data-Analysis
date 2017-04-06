@@ -1,5 +1,7 @@
 # Homework 3
 
+*All .py files assume there is a folder Homework3/Data with the csv files in the data structure*
+
 ## Question 1 - Part 1
 
 * Downloaded csv with `pd.read_csv()`
