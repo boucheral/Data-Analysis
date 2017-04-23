@@ -69,6 +69,28 @@
 
 ### Analysis 4
 
+- The goal with this analysis was to look at the frequency of posts
+- Using the filenameinfo.csv and BeautifulSoup I went through each of the blogs and extracted the date from each post. 
+- This was then saved into a csv for future use
+- Next, I created a bar graph and boxplot comparing the average number of posts per month for each sex which were almost identical 
+- The next graph is the average number of posts per month for each of the different topics
+- The last graph is the average number of posts per month for each topic based on sex
+
 ---
 
 ### Analysis 5
+
+- This analysis is looking at which topics were most popular for each age group; Teen (13-17), 20s (20-29), and 30+
+- Loaded the informations from filenameinfo.csv 
+- Created a new column classifying each age into one of the 3 categories
+- Used crosstab to count up the number of blogs on each topic in each age group
+- with this, I calculated the total number of blogs in each topic and used that to turn each column into the percent of the blogs that were written by that age group
+- Then I created a bar graph comparing each of the topics. 
+
+
+
+
+
+
+
+
