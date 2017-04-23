@@ -22,4 +22,23 @@
 ---
 
 ### Analysis 2
+- I imported all of the filename data to use in this Analysis
+- I also created a sentiment dictionary from the AFINN-111 document to use on the blogs
+- With this I created various functions in order to extract the positive and negative features from each of the blogs and add them into the dataframe
+- This was then saved into [sentiment.csv](https://github.com/boucheral/Data-Analysis/blob/master/Final/csv/sentiment.csv) file 
+- Using this, I compared the average positive and negative values for each topic of blog and used the t test to again compare between men and women. 
+- I created boxplots for each topic where the p-value was < .05
+
+---
+
+### Analysis 3
+
 - 
+
+---
+
+### Analysis 4
+
+---
+
+### Analysis 5
